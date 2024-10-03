@@ -1,0 +1,19 @@
+ID,Name,Output,Input,Crafting Time
+0,Iron Ore,Null,Null,Null
+1,Copper Ore,Null,Null,Null
+2,Stone,Null,Null,Null
+4,Coal,Null,Null,Null
+5,Wood,Null,Null,Null
+6,Copper Plate,15,{Copper Ore:20},48
+7,Iron Plate,15,{Iron Ore:20},48
+8,Copper Cable,2,{Copper Plate:0.5},1
+9,Iron Stick,2,{Iron Plate:0.5},1
+10,Iron Gear Wheel,1,{Iron Plate:1},.5
+11,Iron Beam,1,{Iron Plate:2},2
+12,Single-Cylinder Engine,1,[{Iron Plate:1}:{Iron Gear Wheel:1}],0.6
+13,Inserter Parts,2,[{Iron Stick:4}:{Iron Gear Wheel:4}],2
+14,Stone Brick,5,{Stone:10},16
+15,Wooden Chest,1,{Wood:2},0.5
+16,Iron Chest,1,{Iron Plate:8},0.5
+17,Burner Inserter,1,[{Single-Cylinder Engine:1}:{Inserter Parts:1}],0.5
+18,Basic Tech Card,5,[{Copper Cable:5}:{Wood:5}],20
